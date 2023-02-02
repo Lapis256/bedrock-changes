@@ -6,4 +6,5 @@ Minecraft Bedrock のアップデートでの変更点を、技術的な変更�
 
 ### Preview
 
-- [1.19.70.20](./preview/1.19.70.20/changes.md)
+-   [1.19.70.20](./preview/1.19.70.20/changes.md)
+-   [1.19.70.21](./preview/1.19.70.21/changes.md)
