@@ -1,6 +1,6 @@
 # Preview 1.19.70.22
 
-アップデート日：2023/2/2(日本時間)
+アップデート日：2023/2/9(日本時間)
 
 [公式チェンジログ](https://feedback.minecraft.net/hc/en-us/articles/12739185905933)
 
